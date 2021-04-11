@@ -1,5 +1,9 @@
 # real-analysis-textbook
 
+=======================================================
+PLEASE DO NOT USE THIS TEXTBOOK TO STUDY REAL ANALYSIS IN ITS CURRENT STATE. IT IS UNFINISHED AND UNREVISED, AND MAY NOT BE ENTIRELY ACCURATE.
+=======================================================
+
 THIS TEXT IS INTENDED TO BE READ IN "DARK MODE". Reading it in light mode shouldn't necessarily cause any problems, but the colored version may be more difficult to read, rather than less.
 
 This textbook is my personal effort to make Real Analysis a more accessible course. It aims to take a pedagogy-first approach to mathematics: it concerns itself less with the most proper way of depicting mathematics, and instead leans into the intuitions and informal language that students are much more comfortable with. 
@@ -21,3 +25,5 @@ Students often come away from math feeling as if the words before them came from
 Additionally, this text experiments with extensive coloring and highlighting of important or related words in a sentence: many different colors are used for different topics and ideas, in an informally and not fully consistent way. Coloring text like this is meant to make the textbook more easily legible, and to break up the walls of black and white. This is why dark mode is recommended. However, if these visual effects make you uncomfortable, or seem overwhelming, an uncolored version is provided.
 
 This text is an ongoing project: at the time of writing this (11/28/2020), there is only 1 chapter of 8 written out. The author will continue to steadily advance through the text, hopefully over the next several months. Suggestions, corrections, or comments are welcome. Thank you for taking the time to read, and look into this little experiment.
+
+
