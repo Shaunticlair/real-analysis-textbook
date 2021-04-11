@@ -1,7 +1,9 @@
 # real-analysis-textbook
 
 ===============================
+
 PLEASE DO NOT USE THIS TEXTBOOK TO STUDY REAL ANALYSIS IN ITS CURRENT STATE. IT IS UNFINISHED AND UNREVISED, AND MAY NOT BE ENTIRELY ACCURATE.
+
 ===============================
 
 THIS TEXT IS INTENDED TO BE READ IN "DARK MODE". Reading it in light mode shouldn't necessarily cause any problems, but the colored version may be more difficult to read, rather than less.
