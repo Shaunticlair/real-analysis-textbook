@@ -11,11 +11,11 @@ This textbook is my personal effort to make Real Analysis a more accessible cour
 
 The material is based on "Understanding Analysis" by Stephen Abbott, which, to the best of my knowledge, largely contains the same information as the traditional Real Analysis textbook, "Principle of Mathematical Analysis", by Walter Rudin. I chose this textbook as a basis because of its greater focus on accessibility: a feature I want to lean into with my own work.
 
-As beautifully and concisely as Rudin's book is written, it is often too dense or borderline obtuse for a student fresh to Analysis, and especially one who does not possess prior "mathematical maturity". 
+As beautifully and concisely as Rudin's book is written, it is often too dense or borderline obtuse for a student fresh to Analysis, and especially one who does not possess prior 'mathematical maturity'. 
 
 Given that this course is often used to foster mathematical maturity at the same time, this seems like a student-unfriendly choice, and anecdotally, it is: many students give up on math at this point in their journey, despite having strong logical skills. They are often discouraged by jargon, heavily abstract ways of thinking, and material that is designed from the perspective of an experienced professor, not a fledgling math student.
 
-Abbott's text, despite its strengths, is not consciously focused so much on this accessibility, either: its introduction suggests that it's more focused on the kind of topics that should be introduced to the student early.
+Abbott's text, despite its strengths, is not consciously focused so much on this accessibility, either: its introduction suggests that it's more focused on the question of which topics that should be introduced to the student early, and things like that.
 
 So, this textbook will face square the problem of introducing real analysis, in a way that feels more natural and concrete to new students. 
 
