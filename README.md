@@ -1,14 +1,15 @@
 # real-analysis-textbook
 
 
-PLEASE DO NOT USE THIS TEXTBOOK TO STUDY REAL ANALYSIS IN ITS CURRENT STATE. IT IS UNFINISHED AND UNREVISED, AND MAY NOT BE ENTIRELY ACCURATE.
+PLEASE DO NOT USE THIS TEXTBOOK AS YOUR PRIMARY SOURCE TO STUDY REAL ANALYSIS IN ITS CURRENT STATE. IT IS UNFINISHED AND UNREVISED, AND MAY NOT BE ENTIRELY ACCURATE.
 ===============================
+If you need a strong primary source, I would recommend the source referenced below: "Understanding Analysis" by Stephen Abbott. I consider it a more manageable book to start with.
 
 THIS TEXT IS INTENDED TO BE READ IN "DARK MODE". Reading it in light mode shouldn't necessarily cause any problems, but the colored version may be more difficult to read, rather than less.
 
 This textbook is my personal effort to make Real Analysis a more accessible course. It aims to take a pedagogy-first approach to mathematics: it concerns itself less with the most proper way of depicting mathematics, and instead leans into the intuitions and informal language that students are much more comfortable with. 
 
-The material is based on Understanding Analysis by Stephen Abbott, which, to the best of my knowledge, largely contains the same information as the traditional Real Analysis textbook, "Principle of Mathematical Analysis", by Walter Rudin. I chose this textbook as a basis because of its greater focus on accessibility: a feature I want to lean into with my own work.
+The material is based on "Understanding Analysis" by Stephen Abbott, which, to the best of my knowledge, largely contains the same information as the traditional Real Analysis textbook, "Principle of Mathematical Analysis", by Walter Rudin. I chose this textbook as a basis because of its greater focus on accessibility: a feature I want to lean into with my own work.
 
 As beautifully and concisely as Rudin's book is written, it is often too dense or borderline obtuse for a student fresh to Analysis, and especially one who does not possess prior "mathematical maturity". 
 
